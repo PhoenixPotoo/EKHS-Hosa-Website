@@ -108,3 +108,9 @@ font-weight: 600;
 	  margin: auto;    
     display: block;
 }
+
+.social-media-icon{
+  text-align: center;
+  font-size: 7vw;
+	color: white;
+}
